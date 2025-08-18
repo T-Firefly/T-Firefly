@@ -8,3 +8,6 @@
 
 - Linux Utils for Rockchip-Based Products
   https://github.com/Firefly-rk-linux-utils
+
+- Mainline Linux for Rockchip-Based Products
+  https://github.com/Firefly-rk-linux-mainline
